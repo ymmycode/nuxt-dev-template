@@ -15,7 +15,7 @@
     "vue": "latest"
   },
   "devDependencies": {
-    "@formkit/auto-animate": "^0.8.2",
+    "@hypernym/nuxt-gsap": "^2.4.2",
     "@morev/vue-transitions": "^3.0.2",
     "@nuxt/eslint": "^0.5.0",
     "@nuxtjs/device": "^3.1.1",

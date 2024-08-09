@@ -6,7 +6,6 @@ export default defineNuxtConfig({
   srcDir: './src',
   modules: [
     '@nuxtjs/tailwindcss',
-    '@formkit/auto-animate',
     '@vueuse/nuxt',
     '@nuxtjs/google-fonts',
     'dayjs-nuxt',
@@ -18,6 +17,7 @@ export default defineNuxtConfig({
     '@nuxtjs/seo',
     'nuxt-marquee',
     '@unlazy/nuxt',
+    '@hypernym/nuxt-gsap',
     '@pinia-plugin-persistedstate/nuxt',
     [
       '@pinia/nuxt',
