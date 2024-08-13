@@ -23,7 +23,7 @@ export default defineNuxtConfig({
       '@pinia/nuxt',
       {
         autoImports: ['defineStore', 'acceptHMRUpdate', 'useDayjs'],
-        storesDirs: ['./src/store/**'],
+        storesDirs: ['./src/stores/**'],
       },
     ],
   ],
