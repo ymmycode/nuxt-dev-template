@@ -12,7 +12,7 @@ export default defineNuxtConfig({
     '@nuxt/eslint',
     '@nuxtjs/device',
     'nuxt-booster',
-    '@morev/vue-transitions',
+    '@morev/vue-transitions/nuxt',
     'nuxt-icons',
     '@nuxtjs/seo',
     'nuxt-marquee',
